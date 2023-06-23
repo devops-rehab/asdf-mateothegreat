@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "asdf",
+      "setup": "asdfasd",
+      "run": "asdf",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 12
+    }
+  ]
+}
